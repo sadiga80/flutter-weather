@@ -8,6 +8,7 @@ class HomePage extends StatefulWidget {
 
   final String title;
 
+
   @override
   _HomePageState createState() => _HomePageState();
 }
@@ -15,6 +16,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
 
   WeatherData _weatherData;
+  final mapApi = MapApi();
 
   @override
   void initState() {
@@ -25,7 +27,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.amberAccent,
+      backgroundColor: Colors.blueGrey,
       appBar: AppBar(
         leading: Icon(Icons.wb_cloudy),
         title: new Text(widget.title),
