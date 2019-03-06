@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/santhoshadigau/Desktop/Santhosh Dev/weather_app/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "outputFile": "/Users/csuser/Documents/GitHub/flutter-weather/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/santhoshadigau/Desktop/Santhosh Dev/weather_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/csuser/Documents/GitHub/flutter-weather/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

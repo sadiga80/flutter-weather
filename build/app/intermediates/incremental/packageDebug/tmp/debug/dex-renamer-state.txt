@@ -1,4 +1,4 @@
-#Mon Mar 04 13:47:32 IST 2019
-base.0=/Users/santhoshadigau/Desktop/Santhosh Dev/weather_app/build/app/intermediates/transforms/dexMerger/debug/0
+#Wed Mar 06 17:03:05 IST 2019
+base.0=/Users/csuser/Documents/GitHub/flutter-weather/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
