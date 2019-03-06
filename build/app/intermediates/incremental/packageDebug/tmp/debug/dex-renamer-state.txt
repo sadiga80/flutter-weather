@@ -1,0 +1,4 @@
+#Mon Mar 04 13:47:32 IST 2019
+base.0=/Users/santhoshadigau/Desktop/Santhosh Dev/weather_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
